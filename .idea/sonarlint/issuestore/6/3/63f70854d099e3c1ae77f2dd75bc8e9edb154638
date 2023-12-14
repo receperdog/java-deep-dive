@@ -1,17 +1,0 @@
-
-v
-java:S1854"YRemove this useless assignment to local variable "geometricObjectWithoutAbstractMethods".(š…“8Çô¨ÂÆ1
-e
-java:S1854	"CRemove this useless assignment to local variable "geometricObject".(«·ëìûÿÿÿÿ8Èô¨ÂÆ1
-V
-java:S1481	"4Remove this unused "geometricObject" local variable.(«·ëìûÿÿÿÿ8Íô¨ÂÆ1
-E
-java:S1185"(Remove this method to simply inherit it.(Ê˜ôÀ8Îô¨ÂÆ1
-J
-java:S1185""(Remove this method to simply inherit it.(î“ØŠûÿÿÿÿ8Ğô¨ÂÆ1
-E
-java:S1185'"(Remove this method to simply inherit it.(íŸÑÚ8Ñô¨ÂÆ1
-J
-java:S1185,"(Remove this method to simply inherit it.(¤ïù¤ùÿÿÿÿ8Òô¨ÂÆ1
-g
-java:S1481"JRemove this unused "geometricObjectWithoutAbstractMethods" local variable.(š…“8Óô¨ÂÆ1
